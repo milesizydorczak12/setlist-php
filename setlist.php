@@ -2,8 +2,7 @@
 <html>
 <head> </head>
 <body> 
-<?php 
-echo '[
+'[
     {
         "Title" : "Everlong",
         "Artist(s)" : [ 
@@ -123,6 +122,5 @@ echo '[
         "Year" : "2002"
     }
 ]';
-?>
     </body>
     </html>
